@@ -1,0 +1,29 @@
+"*":
+  core:
+    restorePreviousWindowsOnStart: false
+    themes: [
+      "atom-dark-ui"
+    ]
+  editor:
+    fontFamily: "VL Gothic"
+    fontSize: 13
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "c5372770-386d-a74c-8787-f9cc6015809b"
+  linter:
+    showErrorPanel: false
+  minimap:
+    absoluteMode: true
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
